@@ -5,24 +5,24 @@ This has different machine learning algorithms implemented from scratch and usin
 
 Models:
 
--- K Nearest Neighbor Classification
+- K Nearest Neighbor Classification
 
--- Clustering Algorithm - Kmeans 
+- Clustering Algorithm - Kmeans 
 
--- Bagging Model - Random Forest
+- Bagging Model - Random Forest
 
--- Dimensionality Reduction - PCA
+- Dimensionality Reduction - PCA
 
 Sklearn:
 
--- Logistic Regression
+- Logistic Regression
 
--- Support Vector Machine
+- Support Vector Machine
 
--- Decision Tree
+- Decision Tree
 
--- K Nearest Neighbor
+- K Nearest Neighbor
 
--- Voting Classifier - Ensemble Model
+- Voting Classifier - Ensemble Model
 
--- HyperParameter Tuning - Grid Search
+- HyperParameter Tuning - Grid Search
