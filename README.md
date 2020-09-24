@@ -25,7 +25,7 @@ Sklearn:
 
 - Voting Classifier - Ensemble Model
 
-- HyperParameter Tuning - Grid Search
+- HyperParameter Tuning - GridSearchCV
 
 Libraries Used:
 
