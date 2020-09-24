@@ -3,15 +3,15 @@
 
 This has different machine learning algorithms implemented from scratch and using sklearn libraries.
 
-Classification Model:
+Models:
 
--- K Nearest Neighbor
+-- K Nearest Neighbor Classification
 
--- Kmeans 
+-- Clustering Algorithm - Kmeans 
 
--- Random Forest
+-- Bagging Model - Random Forest
 
--- PCA
+-- Dimensionality Reduction - PCA
 
 Sklearn:
 
