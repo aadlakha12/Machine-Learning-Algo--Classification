@@ -1,7 +1,7 @@
 # Machine-Learning-Algo--Classification
 
 
-This has different machine learning algorithms implemented from scratch and using sklearn libraries.
+This has different machine learning algorithms implemented from scratch and using Scikit-Learn library.
 
 Models:
 
