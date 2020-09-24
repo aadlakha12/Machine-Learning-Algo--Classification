@@ -26,3 +26,10 @@ Sklearn:
 - Voting Classifier - Ensemble Model
 
 - HyperParameter Tuning - Grid Search
+
+Libraries Used:
+
+- Numpy
+- Pandas
+- MatPlotlib
+- Scikit-Learn
