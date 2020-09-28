@@ -40,22 +40,22 @@ Confusion Matrix:
 
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/ConfusionMatrix.png?raw=true)
 
-Voting Classifier Confusion Matrix
+Voting Classifier Confusion Matrix:
 
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/EnsembleConfusionmatrix.png?raw=true)
 
-#### Grid Search
+### Grid Search
 
-###### SVN
+#### SVN
 
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/SVMgridSearch.png?raw=true)
 
 
-###### KNN
+#### KNN
 
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/KNNgridSearch.png?raw=true)
 
 
-###### Decision Tree
+#### Decision Tree
 
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/DecisionTreegridSearch.png?raw=true)
