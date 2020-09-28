@@ -33,3 +33,10 @@ Libraries Used:
 - Pandas
 - MatPlotlib
 - Scikit-Learn
+
+## Results:
+
+Confusion Matrix:
+
+![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid Search Results/ConfusionMatrix.png?raw=true)
+
