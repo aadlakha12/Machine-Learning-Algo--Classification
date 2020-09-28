@@ -13,7 +13,7 @@ Models:
 
 - Dimensionality Reduction - PCA
 
-Sklearn:
+Sklearn Models:
 
 - Logistic Regression
 
@@ -51,11 +51,9 @@ Voting Classifier Confusion Matrix
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/SVMgridSearch.png?raw=true)
 
 
-
 ###### KNN
 
 ![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid%20Search%20Results/KNNgridSearch.png?raw=true)
-
 
 
 ###### Decision Tree
