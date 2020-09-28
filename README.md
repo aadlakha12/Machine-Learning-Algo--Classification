@@ -38,5 +38,5 @@ Libraries Used:
 
 Confusion Matrix:
 
-![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid Search Results/ConfusionMatrix.png?raw=true)
+![alt text](https://github.com/aadlakha12/Machine-Learning-Algo--Classification/blob/master/Grid-Search-Results/ConfusionMatrix.png?raw=true)
 
